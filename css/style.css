@@ -334,5 +334,15 @@ MEDIA
         padding-top: 70px;
         padding-bottom: 60px;
     }
+    
+    #header_arrow{
+    font-size: 48px;
+    position: absolute;
+    bottom: 50px;
+    left: 50%;
+    width: 60px;
+    height: 50px;
+    margin-left: -30px;
+}
 
 }
