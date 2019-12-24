@@ -363,5 +363,10 @@ MEDIA
         padding-top: 70px;
         padding-bottom: 50px;
     }
+    
+    .portfolio-item_image img{
+        max-width: 320px;
+        height: auto;
+    }
 
 }
